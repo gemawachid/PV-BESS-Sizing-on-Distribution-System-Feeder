@@ -239,19 +239,7 @@ This project went through an extensive debugging session. Eight critical bugs we
 
 ---
 
-## Citation
 
-If you use this code or methodology in your work, please cite:
-
-```bibtex
-@misc{rai2026pvbess,
-  author       = {Aryasatya, Gema Wachid},
-  title        = {PV and BESS Optimal Hosting Capacity Sizing on IEEE 33-Bus Distribution System},
-  year         = {2026},
-  howpublished = {\url{[https://github.com/<your-username>/<repo-name>](https://github.com/gemawachid/PV-BESS-Sizing-on-Distribution-System-Feeder/)}},
-  note         = {Thesis project, LinDistFlow MILP, Pyomo/HiGHS}
-}
-```
 
 **Reference network:**
 > Baran, M. E., & Wu, F. F. (1989). *Network reconfiguration in distribution systems for loss reduction and load balancing*. IEEE Transactions on Power Delivery, 4(2), 1401–1407.
