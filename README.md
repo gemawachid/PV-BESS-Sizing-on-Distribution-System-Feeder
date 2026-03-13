@@ -161,7 +161,7 @@ pip install gurobipy
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/gemawachid/PV-BESS-Sizing-on-Distribution-System-Feeder.git
 cd <repo-name>
 ```
 
@@ -174,7 +174,7 @@ pip install pyomo numpy pandas matplotlib highspy
 3. **Open the notebook**
 
 ```bash
-jupyter notebook thesis-Rai-improved.ipynb
+jupyter notebook Distribution-PVBESS.ipynb
 ```
 
 4. **Run all cells in order** — do not skip cells; each cell depends on variables defined in the previous one.
