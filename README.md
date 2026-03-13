@@ -245,7 +245,7 @@ If you use this code or methodology in your work, please cite:
 
 ```bibtex
 @misc{rai2026pvbess,
-  author       = {Rai, [Your Name]},
+  author       = {Aryasatya, Gema Wachid},
   title        = {PV and BESS Optimal Hosting Capacity Sizing on IEEE 33-Bus Distribution System},
   year         = {2026},
   howpublished = {\url{https://github.com/<your-username>/<repo-name>}},
